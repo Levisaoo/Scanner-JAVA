@@ -14,11 +14,11 @@ public class Main {
 
         if (pontuacaoRoq > pontuaçaoLevi) {
 
-            System.out.println("Parabens roque vc teve uma pontuaçao amais de " + resultadoR );
+            System.out.println("Parabens Roque vc teve uma pontuaçao amais de %f ".formatted(resultadoR) );
 
         } else {
 
-            System.out.println("Parabens Levi vc teve uma pontuação amais de " + pontuacaoL);
+            System.out.println("Parabens Levi vc teve uma pontuação amais de %f ".formatted(pontuacaoL));
 
 
 
