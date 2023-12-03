@@ -20,7 +20,7 @@ public class Main {
 
             System.out.println("Parabens Levi vc teve uma pontuação amais de %f ".formatted(pontuacaoL));
 
-
+git status
 
         }
 
